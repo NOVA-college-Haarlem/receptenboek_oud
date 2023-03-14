@@ -25,6 +25,20 @@ Lees de usertories, hierin staan gegevens om een ERD te maken. Maak een ERD-vers
 ### Opdracht 4
 Codeer aan de hand van de userstories je webapp. Je kunt beginnen met eerst de backend (PHP en MYSQL) maar je mag ook beginnen met de frontend (HTML en CSS). Wil je JavaScript gebruiken? Doe dit dan pas op het laatst als je tijd over hebt.
 
+
+## Start Project
+
+1. Fork het project
+2. Open een terminal met als lokatie C:\Projecten (o.i.d.)
+3. Clone het project vanuit je eigen GitHub omgeving naar je projecten map (C:\Projecten) `git clone ...`
+4. Start Docker Desktop
+5. Open het project in VS Code
+6. Vanuit de terminal start je het project `docker-compose up
+`
+7. project is te benaderen via http://localhost
+8. PhPmyAdmin is te benaderen via http://localhost:8000
+
+
 ## JAAR 1 Userstories
 
 - Als gebruiker wil ik een professionele site met de look en feel van een echte recepten webapp zodat ik trek krijg in de gekozen keuken.
