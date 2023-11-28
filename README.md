@@ -56,6 +56,8 @@ Codeer aan de hand van de userstories je webapp. Je kunt beginnen met eerst de b
 - Maak een ERD voor recept (id, title, image)
 - Maak een ERD voor receptDetails (recept_id, cook_time, number_of_ingredients, menu_course, difficulty, steps)
 
+Tussen de twee tabellen is een 1-op-1 relatie. Een recept heeft 1 receptDetails en een receptDetails hoort bij 1 recept.
+
 ## JAAR 2 Userstories
 
 - Als gebruiker wil ik een professionele site met de look en feel van een echte recepten web app zodat ik trek krijg in de gekozen keuken.
