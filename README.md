@@ -50,6 +50,9 @@ Codeer aan de hand van de userstories je webapp. Je kunt beginnen met eerst de b
 - Als gebruiker wil ik in een speciaal overzicht direct kunnen zien welk recept het langst duurt om te maken
 - Als gebruiker wil ik in een speciaal overzicht direct kunnen zien welk(e) recept(en) de makkelijkste moeilijkheidsgraad hebben
 - Als gebruiker wil ik in een speciaal overzicht direct kunnen zien welk(e) recept(en) de meest ingrediënten hebben.
+- Als gebruiker wil ik kunnen inloggen zodat ik bij de afgeschermde pagina's kan komen
+- Als gebruiker wil ik mijzelf registreren zodat ik later kan inloggen
+- Als gebruiker wil ik een recept kunnen aanmaken
 
 ## ERD
 
