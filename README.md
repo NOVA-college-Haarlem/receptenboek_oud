@@ -44,8 +44,7 @@ Codeer aan de hand van de userstories je webapp. Je kunt beginnen met eerst de b
 - Als gebruiker wil ik een professionele site met de look en feel van een echte recepten webapp zodat ik trek krijg in de gekozen keuken.
 - Als gebruiker wil ik op elke pagina een duidelijk navigatiemenu hebben zodat ik makkelijk door de webapp kan navigeren
 - Als gebruiker wil ik een overzicht zien van alle recepten met enkel de titel en een afbeelding zodat de recepten duidelijk getoond kunnen worden. (geen tabel)
-- Als gebruiker wil ik elke individuele recept in detail (met alle attributen) kunnen bekijken zodat ik het recept goed kan bekijken.
-- Als gebruiker wil ik recepten bestaande uit een titel, foto, kookduur, aantal ingrediënten, menugang, moeilijkheidsgraad en stappenplan kunnen bekijken
+- Als gebruiker wil ik elke individuele recept in detail (met de attributen:  titel, foto, kookduur, aantal ingrediënten, menugang, moeilijkheidsgraad en stappenplan) kunnen bekijken zodat ik het recept goed kan bekijken.
 - Als gebruiker wil ik naast de navigatie op elke pagina kunnen zien hoeveel recepten er in de database staan zodat dat duidelijk is. (dynamisch getoond)
 - Als gebruiker wil ik in een speciaal overzicht direct kunnen zien welk recept het langst duurt om te maken
 - Als gebruiker wil ik in een speciaal overzicht direct kunnen zien welk(e) recept(en) de makkelijkste moeilijkheidsgraad hebben
