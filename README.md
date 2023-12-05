@@ -52,6 +52,7 @@ Codeer aan de hand van de userstories je webapp. Je kunt beginnen met eerst de b
 - Als gebruiker wil ik kunnen inloggen zodat ik bij de afgeschermde pagina's kan komen
 - Als gebruiker wil ik mijzelf registreren zodat ik later kan inloggen
 - Als gebruiker wil ik een recept kunnen aanmaken
+- Als gebruiker wil ik recepten kunnen zoeken op naam
 
 ## ERD
 
