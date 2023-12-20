@@ -51,7 +51,7 @@ Codeer aan de hand van de userstories je webapp. Je kunt beginnen met eerst de b
 - Als gebruiker wil ik in een speciaal overzicht direct kunnen zien welk(e) recept(en) de makkelijkste moeilijkheidsgraad hebben
 - Als gebruiker wil ik in een speciaal overzicht direct kunnen zien welk(e) recept(en) de meest ingrediënten hebben.
 
-## ERD
+### ERD
 
 - Maak een ERD voor recept (id, title, image)
 - Maak een ERD voor receptDetails (recept_id, cook_time, number_of_ingredients, menu_course, difficulty, steps)
@@ -77,4 +77,16 @@ Tussen de twee tabellen is een 1-op-1 relatie. Een recept heeft 1 receptDetails 
 - Als administrator wil ik gebruikers kunnen toevoegen, wijzigen en verwijderen zodat de gebruikers van de applicatie up-to-date blijven
 - Als gebruiker wil ik kunnen inloggen om zo mijn eigen recepten te kunnen bekijken
 - Als gebruiker wil ik kunnen registreren zodat ik gebruik kan maken van de applicatie
+
+### ERD
+
+- Maak een ERD voor recept (id, title, image, user_id)
+- Maak een ERD voor receptDetails (recept_id, cook_time, number_of_ingredients, menu_course, difficulty, steps)
+- Maak een ERD voor ingredient (id, name, recipe_id)
+- Maak een ERD voor user (id, name, email, password)
+
+### Relaties
+- Een recept heeft 1 receptDetails en een receptDetails hoort bij 1 recept.
+- Een recept heeft meerdere ingrediënten en een ingrediënt hoort bij 1 recept.
+- Een gebruiker heeft meerdere recepten en een recept hoort bij 1 gebruiker.
 
